@@ -14,7 +14,17 @@ const vitePressOptions = {
 
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/PhyCmdBlock/note-website' },
+      { 
+        icon: {
+          svg: `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <image href="/img/blog.jpg" 
+                         width="24" height="24" 
+                         preserveAspectRatio="xMidYMid slice"/>
+                </svg>`
+        },
+        link: 'https://alsbb.top'
+      }
     ],
 
     search: {

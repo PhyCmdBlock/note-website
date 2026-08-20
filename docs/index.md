@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "PhyCmdBlock的做题笔记"
-  text: "一个简单的网站"
-  tagline: 我的做题思考
+  name: "PhyCmdBlock"
+  text: "的做题笔记"
+  tagline: 一个简单的网站，虽然也有爱丽丝
   actions:
     - theme: brand
-      text: 简介
+      text: 阅读
       link: /hello
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
+    - theme: alt
+      text: 前往我的博客
+      link: https://alsbb.top/
 
 features:
   - title: 爱
