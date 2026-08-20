@@ -1,0 +1,8 @@
+{
+  "documentRootPath": "/docs",  
+  "useFolderTitleFromIndexFile": true,
+  "useTitleFromFileHeading": true,
+  "useTitleFromFrontmatter": true,
+  "collapsed": false,
+  "debugPrint": true
+}
