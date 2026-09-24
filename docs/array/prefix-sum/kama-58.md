@@ -1,4 +1,4 @@
-# 58. 区间和
+# 卡码58. 区间和
 [题目链接](https://kamacoder.com/problempage.php?pid=1070)
 
 我只会这个：
