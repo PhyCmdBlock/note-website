@@ -6,6 +6,9 @@ const vitePressOptions = {
   description: "我的做题思考",
   lang: "zh-Hans-CN",
   lastUpdated: true,
+  markdown: {
+    math: true,
+  },
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
